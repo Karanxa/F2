@@ -132,3 +132,6 @@ Since version 3.1.12 (released on 2018-06-20), we add `F2.track(true)` method fo
 ## License
 
 [MIT license](./LICENSE).
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:34 -->
