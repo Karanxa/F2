@@ -139,3 +139,5 @@ Since version 3.1.12 (released on 2018-06-20), we add `F2.track(true)` method fo
 <!-- Security scan triggered at 2025-09-09 05:49:10 -->
 
 <!-- Security scan triggered at 2025-09-09 05:55:31 -->
+
+<!-- Security scan triggered at 2025-09-28 15:58:42 -->
